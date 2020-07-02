@@ -79,6 +79,19 @@ height: 400px;
     width: 100%;
 }
 
+.client-items{
+    padding: 5px 150px;
+}
+.client-item{
+    width: 29%;   
+    float: left;
+    padding: 10px;
+}
+.client-item img{
+    width: 220px;
+    height: 150px;
+}
+
 .section-feedback{
     background-image: url("images/footer-bg.png");
     background-repeat: no-repeat;    
